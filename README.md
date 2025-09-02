@@ -38,13 +38,6 @@ I seek to add value to projects where **optimization, automation, and security**
   </a>
 </p>
 <br>
-<p align="left">
-  <!-- Cisco -->
-  <img src="./assets/cisco.png" alt="Cisco" width="80"/>
-  <img src="./assets/juniper.png" alt="Juniper" width="80"/>
-  <img src="./assets/fortinet.png" alt="Fortinet" width="80"/>
-</p>
-
 
 ---
 
