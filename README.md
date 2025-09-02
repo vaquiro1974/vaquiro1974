@@ -1,6 +1,6 @@
 <!-- Imagen de portada -->
 <p align="center">
-  <img src="https://www.canva.com/design/DAGx29aWdwE/80a0wnOCKsX6WErgQoZXEQ/edit?utm_content=DAGx29aWdwE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Portada" width="100%" />
+  <img src="https://drive.google.com/file/d/1C3snK69xr8PF43CaDjG-FI4elgSlOfhJ/view" alt="Portada" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Pablo A. Vaquiro</h1>
 <h3 align="center">🌍 A passionate Cloud & Infrastructure Administrator from Colombia, turning ideas into solutions</h3>
@@ -11,15 +11,11 @@
 
 
 ## 👨‍💻 About Me
-💡 I am a **Networking professional** transitioning into the world of **DevOps & Cloud Engineering**.  
-I have experience in **Linux, Networking (CCNA, Huawei, Fortinet), Git/GitHub, Docker, and AWS**, as well as projects in **automation, infrastructure as code (Terraform, Ansible)**, and **containers**.  
-
-I am currently focusing on:
-- **DevOps** → CI/CD, Docker, Kubernetes, GitHub Actions.  
-- **Cloud** → AWS (IAM, VPC, EC2, S3, Load Balancers).  
-- **Infrastructure** → Terraform, Ansible, Advanced Networking.  
-
-I seek to add value to projects where **optimization, automation, and security** are key. 🚀
+🔭 I’m currently building DevOps labs with Docker & Kubernetes  
+🌱 I’m learning Cloud Engineering & Automation with Terraform and AWS  
+💻 I develop projects around CI/CD, Monitoring & Infrastructure as Code  
+💬 Ask me about Cloud, Microservices, Networking & DevOps tools  
+📫 Reach me at: vaquiro1974@gmail.com  
 
 
 ---
