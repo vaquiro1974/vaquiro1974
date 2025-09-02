@@ -1,6 +1,6 @@
 <!-- Imagen de portada -->
 <p align="center">
-  <img src="https://bannerpvaquiro.my.canva.site/" alt="Portada" width="100%" />
+  <img src="https://www.canva.com/design/DAGx29aWdwE/80a0wnOCKsX6WErgQoZXEQ/edit?utm_content=DAGx29aWdwE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Portada" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Pablo A. Vaquiro</h1>
 <h3 align="center">🌍 A passionate Cloud & Infrastructure Administrator from Colombia, turning ideas into solutions</h3>
