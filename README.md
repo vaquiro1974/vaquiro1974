@@ -6,36 +6,36 @@
 ---
 
 ## 👨‍💻 About Me
-Soy **Ingeniero en Redes y Seguridad** en transición hacia el mundo **DevOps & Cloud Engineering**.  
-Cuento con experiencia en **Linux, Networking (CCNA, Fortinet), Git/GitHub, Docker y AWS**, además de proyectos en **automatización, infraestructura como código (Terraform, Ansible)** y **contenedores**.  
+I am a **Network and Security Engineer** transitioning into the world of **DevOps & Cloud Engineering**.  
+I have experience in **Linux, Networking (CCNA, Fortinet), Git/GitHub, Docker, and AWS**, as well as projects in **automation, infrastructure as code (Terraform, Ansible)**, and **containers**.  
 
-Actualmente estoy enfocándome en:
+I am currently focusing on:
 - **DevOps** → CI/CD, Docker, Kubernetes, GitHub Actions.  
 - **Cloud** → AWS (IAM, VPC, EC2, S3, Load Balancers).  
-- **Infraestructura** → Terraform, Ansible, Networking avanzado.  
+- **Infrastructure** → Terraform, Ansible, Advanced Networking.  
 
-Busco aportar valor en proyectos donde la **optimización, automatización y seguridad** sean clave. 🚀
+I seek to add value to projects where **optimization, automation, and security** are key. 🚀
 
 ---
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaquiro1974&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaquiro1974&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vaquiro1974&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pablovaquiro/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -60,10 +60,10 @@ Busco aportar valor en proyectos donde la **optimización, automatización y seg
 
 ## 📂 Mis Repositorios Destacados
 <p align="center">
-  <a href="https://github.com/TU-USUARIO/terraform-labs">
+  <a href="https://github.com/vaquiro1974/terraform-labs">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO&repo=terraform-labs&theme=radical" />
   </a>
-  <a href="https://github.com/TU-USUARIO/docker-projects">
+  <a href="https://github.com/vaquiro1974/docker-projects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO&repo=docker-projects&theme=radical" />
   </a>
 </p>
