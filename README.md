@@ -1,16 +1,18 @@
 <!-- Imagen de portada -->
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/63322443/484761499-8406e6b9-6275-4ec9-95ec-700193caebfd.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTY4NDY1MjcsIm5iZiI6MTc1Njg0NjIyNywicGF0aCI6Ii82MzMyMjQ0My80ODQ3NjE0OTktODQwNmU2YjktNjI3NS00ZWM5LTk1ZWMtNzAwMTkzY2FlYmZkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTAyVDIwNTAyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY5NGFiNWMwMTZmOTQ3YjAwMDhlNTk5MTI3M2UxZjRkMDNiZWY2YWJlMjgzYzM3YjE2NjFkMzdlMDljYjg4NTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.JAuNRYJ8gSdLMATir3y17_4U-bfVWSn3ihyuD8lgzVw" alt="Portada" width="100%" />
+  <img src="https://private-user-images.githubusercontent.com/63322443/484761499-8406e6b9-6275-4ec9-95ec-700193caebfd.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTY4NDY1MjcsIm5iZiI6MTc1Njg0NjIyNywicGF0aCI6Ii82MzMyMjQ0My80ODQ3NjE0OTktODQwNmU2YjktNjI3NS00ZWM5LTk1ZWMtNzAwMTkzY2FlYmZkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTAyVDIwNTAyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY5NGFiNWMwMTZmOTQ3YjAwMDhlNTk5MTI3M2UxZjRkMDNiZWY2YWJlMjgzYzM3YjE2NjFkMzdlMDljYjg4NTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.JAuNRYJ8gSdLMATir3y17_4U-bfVWSn3ihyuD8lgzVw" alt="Portada" style="max-width:100%; height:auto;" />
 </p>
 <h1 align="center">Hi 👋, I'm Pablo A. Vaquiro</h1>
-<h3 align="center">A passionate Cloud & Infrastructure Administrator from Colombia, turning ideas into solutions</h3>
+<h3 align="center">🌍 A passionate Cloud & Infrastructure Administrator from Colombia, turning ideas into solutions</h3>
+
 <img align="right" alt="Coding" width="400" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deamaya44&label=Profile%20views&color=0e75b6&style=flat" alt="vaquiro1974" /> </p>
 
 
 ## 👨‍💻 About Me
-I am a **Network and Security Engineer** transitioning into the world of **DevOps & Cloud Engineering**.  
-I have experience in **Linux, Networking (CCNA, Fortinet), Git/GitHub, Docker, and AWS**, as well as projects in **automation, infrastructure as code (Terraform, Ansible)**, and **containers**.  
+💡 I am a **Networking professional** transitioning into the world of **DevOps & Cloud Engineering**.  
+I have experience in **Linux, Networking (CCNA, Huawei, Fortinet), Git/GitHub, Docker, and AWS**, as well as projects in **automation, infrastructure as code (Terraform, Ansible)**, and **containers**.  
 
 I am currently focusing on:
 - **DevOps** → CI/CD, Docker, Kubernetes, GitHub Actions.  
@@ -36,6 +38,15 @@ I seek to add value to projects where **optimization, automation, and security**
   </a>
 </p>
 <br>
+<p align="left">
+  <!-- Cisco -->
+  <img src="https://img.icons8.com/color/48/cisco-logo.png" alt="Cisco" width="40" height="40"/>
+  <!-- Juniper -->
+  <img src="https://img.icons8.com/color/48/juniper.png" alt="Juniper" width="40" height="40"/>
+  <!-- Fortinet -->
+  <img src="https://img.icons8.com/color/48/fortinet.png" alt="Fortinet" width="40" height="40"/>
+</p>
+
 
 ---
 
