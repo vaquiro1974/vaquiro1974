@@ -9,15 +9,13 @@
 
 
 ## 👨‍💻 About Me
-I am a **Network and Security Engineer** transitioning into the world of **DevOps & Cloud Engineering**.  
-I have experience in **Linux, Networking (CCNA, Fortinet), Git/GitHub, Docker, and AWS**, as well as projects in **automation, infrastructure as code (Terraform, Ansible)**, and **containers**.  
+🔭 I’m currently working on [proyecto-terraform](https://github.com/vaquiro1974/terraform-labs)
 
-I am currently focusing on:
-- **DevOps** → CI/CD, Docker, Kubernetes, GitHub Actions.  
-- **Cloud** → AWS (IAM, VPC, EC2, S3, Load Balancers).  
-- **Infrastructure** → Terraform, Ansible, Advanced Networking.  
+🌱 I’m currently learning DevOps
 
-I seek to add value to projects where **optimization, automation, and security** are key. 🚀
+💬 Ask me about Microservices, Cloud, Support
+
+📫 How to reach me vaquiro1974@gmail.com
 
 
 
