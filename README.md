@@ -1,6 +1,6 @@
 <!-- Imagen de portada -->
 <p align="center">
-  <img src="https://www.canva.com/design/DAGx29aWdwE/9icHWrD3b83oGrCxvNCz1g/view?utm_content=DAGx29aWdwE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1a41abefaa" alt="Portada" width="100%" />
+  <img src="https://github.com/vaquiro1974/Project-2025/issues/2" alt="Portada" width="100%" />
 </p>
 
 ---
@@ -36,7 +36,7 @@ I seek to add value to projects where **optimization, automation, and security**
 ## 🤝 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/pablovaquiro/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
+  <a href="mailto:vaquiro1974@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -61,10 +61,10 @@ I seek to add value to projects where **optimization, automation, and security**
 ## 📂 Mis Repositorios Destacados
 <p align="center">
   <a href="https://github.com/vaquiro1974/terraform-labs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO&repo=terraform-labs&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaquiro1974&repo=terraform-labs&theme=radical" />
   </a>
   <a href="https://github.com/vaquiro1974/docker-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO&repo=docker-projects&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaquiro1974&repo=docker-projects&theme=radical" />
   </a>
 </p>
 
