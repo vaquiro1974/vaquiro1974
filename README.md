@@ -39,14 +39,13 @@
 
 ## 🚀 Projects - Showcase  
 
-A three slot gallery. Drop an image for each project. Keep titles punchy and link everything.  
 
 <table>
   <tr>
     <!-- Project One -->
     <td align="center" width="33%">
-      <img src="./assets/terraform_apply.png" alt="Project One thumbnail" width="100%" />
-      <h3>Project One Provider Local</h3>
+      <img src="https://github.com/vaquiro1974/portfolio-assets/blob/main/terraform_apply.PNG" alt="Project One thumbnail" width="100%" />
+      <h3>Project One Provider Local Terraform</h3>
       <p>My first project on local IaC infrastructure.</p>
       <p>
         <a href="https://github.com/vaquiro1974/terraform-labs/tree/main/lab1-basic-providers/mi-primer-terraform">Repo</a> •  
