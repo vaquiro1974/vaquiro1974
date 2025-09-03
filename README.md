@@ -54,7 +54,7 @@
     </td>
     <!-- Project Two -->
     <td align="center" width="33%">
-      <img src="./assets/Captura.png" alt="Project Two thumbnail" width="100%" />
+      <img src="https://github.com/vaquiro1974/portfolio-assets/blob/main/Captura.PNG" alt="Project Two thumbnail" width="100%" />
       <h3>Project Two Flask + PostgreSQL con Docker Compose</h3>
       <p>This lab demonstrates how to deploy a Flask application with PostgreSQL using Docker Compose.</p>
       <p>
