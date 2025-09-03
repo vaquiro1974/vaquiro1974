@@ -1,6 +1,6 @@
 <!-- Imagen de portada -->
 <p align="center">
-  <img src="https://drive.google.com/file/d/1C3snK69xr8PF43CaDjG-FI4elgSlOfhJ/view" alt="Portada" width="100%" />
+  <img src="https://github.com/vaquiro1974/portfolio-assets/blob/main/Black%20Clean%20Technology%20Logo.png" alt="Portada" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Pablo A. Vaquiro</h1>
 <h3 align="center">🌍 A passionate Cloud & Infrastructure Administrator from Colombia, turning ideas into solutions</h3>
