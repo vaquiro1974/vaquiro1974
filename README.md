@@ -37,6 +37,37 @@
 
 ---
 
+## 🚀 Projects - Showcase  
+
+A three slot gallery. Drop an image for each project. Keep titles punchy and link everything.  
+
+<table>
+  <tr>
+    <!-- Project One -->
+    <td align="center" width="33%">
+      <img src="./assets/terraform_apply.png" alt="Project One thumbnail" width="100%" />
+      <h3>Project One Provider Local</h3>
+      <p>My first project on local IaC infrastructure.</p>
+      <p>
+        <a href="https://github.com/vaquiro1974/terraform-labs/tree/main/lab1-basic-providers/mi-primer-terraform">Repo</a> •  
+      </p>
+      <p><b>Tags:</b>Terraform</p>
+    </td>
+    <!-- Project Two -->
+    <td align="center" width="33%">
+      <img src="./assets/Captura.png" alt="Project Two thumbnail" width="100%" />
+      <h3>Project Two Flask + PostgreSQL con Docker Compose</h3>
+      <p>This lab demonstrates how to deploy a Flask application with PostgreSQL using Docker Compose.</p>
+      <p>
+        <a href="https://github.com/vaquiro1974/flask-products-app">Repo</a> • 
+      </p>
+      <p><b>Tags:</b> Docker Compose, Flask, PostgreSQL</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📊 GitHub Analytics
 <p align="center">
 <a href="https://github.com/vaquiro1974">
